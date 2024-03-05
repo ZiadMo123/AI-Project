@@ -8,7 +8,7 @@
 
 
 # Expanded Look at our project
-    The attached PDF explains our project more with attached images so you can get understand more.
+    The attached PDF explains our project more with attached images so you can understand more.
     
 
 # Dataset
