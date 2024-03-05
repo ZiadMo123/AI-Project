@@ -4,6 +4,11 @@
 
 
 # Transfer learning Model 
+    we Implemented this transfer learning model using ResNet50 with freezing its parameters so they don't update.
+
+
+# Expanded Look at our project
+    The attached PDF explains our project more with attached images so you can get understand more.
     
 
 # Dataset
