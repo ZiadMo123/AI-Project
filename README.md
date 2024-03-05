@@ -2,6 +2,11 @@
 Simple handcrafted AI project to classify satellite images into four classes (Water surfaces , desert,  forest, cloudy) with high accuracy ≈ 98%
 
 
+#Dataset
+   https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification
+
+
+
 We Implemented early stopping and cross validation to ensure no overfitting occurs 
 
 
