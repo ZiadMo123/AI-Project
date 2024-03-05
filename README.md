@@ -10,3 +10,6 @@ Simple handcrafted AI project to classify satellite images into four classes (Wa
 We Implemented early stopping and cross validation to ensure no overfitting occurs 
 
 
+
+#Model Implementation 
+The model pic shows the model with layers and the parameters
