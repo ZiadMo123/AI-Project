@@ -12,13 +12,13 @@
     
 
 # Dataset
-   https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification
+     https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification
 
 
 
 
 # Handcrafted Model Implementation 
 
-   1. The model pic shows the model with layers and the parameters
+    1. The model pic shows the model with layers and the parameters
 
-   2. We Implemented early stopping and cross validation to ensure no overfitting occurs 
+    2. We Implemented early stopping and cross validation to ensure no overfitting occurs 
